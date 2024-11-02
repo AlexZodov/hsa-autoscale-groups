@@ -1,0 +1,1 @@
+# hsa-autoscale-groups
